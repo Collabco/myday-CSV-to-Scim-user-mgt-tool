@@ -1,6 +1,7 @@
 # myday CSVToScim user management Tool
 
-**FILES WILL BE AVAILABLE 28th Jan 22 **
+**FILES WILL BE AVAILABLE 28th Jan 22**
+
 Command line tool for import of users, groups and memberships to myday
 
 This repository will host the binaries of this tool, and is licensed for use by customers of Ready Education with their myday tenancies. 
