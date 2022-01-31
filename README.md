@@ -1,6 +1,6 @@
 # myday CSVToScim user management Tool
 
-**FILES WILL BE AVAILABLE 28th Jan 22**
+**VERSION 1.0.4 HAS BEEN RELEASED. PLEASE USE THE LINK ON THE RIGHT ODF THE PAGE. -->**
 
 Command line tool for import of users, groups and memberships to myday
 
