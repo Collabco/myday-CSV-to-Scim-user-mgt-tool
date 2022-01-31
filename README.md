@@ -25,7 +25,7 @@ NOTE, DO NOT USE THE CLIENT SET UP FOR AAD SYNC. IT WILL GENERATE TOKENS WITH A 
 	
 OSX / Linux:
 - Copy the file to the machine you want to use the tool from.
-- Type in sudo chmod +x csvtoscim and hit enter
+- Use the terminal to execute the following command: **sudo chmod +x csvtoscim** and hit enter
 - Type in the password of your admin account and hit enter to grant the executable permission to run
 
 Other Requirements:
